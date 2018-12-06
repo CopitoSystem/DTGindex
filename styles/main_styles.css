@@ -36,6 +36,11 @@ COLOR PALETTE
 
 ******************************/
 
+a img:hover {
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+}
+
 
 .carousel {
   position: relative;
